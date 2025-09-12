@@ -14,6 +14,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>fit2cloud_gh</groupId>
+            <artifactId>jenkins_dataease</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
             <groupId>commons-net</groupId>
             <artifactId>commons-net</artifactId>
             <version>${commons-net.version}</version>
