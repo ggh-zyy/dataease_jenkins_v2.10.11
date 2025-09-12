@@ -14,11 +14,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>fit2cloud_gh</groupId>
-            <artifactId>jenkins_dataease</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-        <dependency>
             <groupId>org.apache.calcite</groupId>
             <artifactId>calcite-core</artifactId>
             <version>1.35.20</version>
